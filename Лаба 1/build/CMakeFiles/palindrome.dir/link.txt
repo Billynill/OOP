@@ -1,0 +1,2 @@
+/usr/bin/ar qc libpalindrome.a CMakeFiles/palindrome.dir/src/palindrome.cpp.o
+/usr/bin/ranlib libpalindrome.a

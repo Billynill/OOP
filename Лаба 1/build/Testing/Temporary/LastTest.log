@@ -1,0 +1,30 @@
+Start testing: Sep 15 18:41 PDT
+----------------------------------------------------------
+1/1 Testing: PalindromeAscii.Basic
+1/1 Test: PalindromeAscii.Basic
+Command: "/Users/rustam/Desktop/ООП/Лаба 1/build/palindrome_tests" "--gtest_filter=PalindromeAscii.Basic" "--gtest_also_run_disabled_tests"
+Directory: /Users/rustam/Desktop/ООП/Лаба 1/build
+"PalindromeAscii.Basic" start time: Sep 15 18:41 PDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/rustam/Desktop/ООП/Лаба 1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PalindromeAscii.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PalindromeAscii
+[ RUN      ] PalindromeAscii.Basic
+[       OK ] PalindromeAscii.Basic (0 ms)
+[----------] 1 test from PalindromeAscii (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PalindromeAscii.Basic" end time: Sep 15 18:41 PDT
+"PalindromeAscii.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 18:41 PDT
