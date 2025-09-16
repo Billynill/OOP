@@ -4,15 +4,13 @@ project(lab1_palindrome CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-# Основная библиотека с функцией
 add_library(palindrome src/palindrome.cpp)
 target_include_directories(palindrome PUBLIC ${CMAKE_SOURCE_DIR}/src)
 
-# Консольное приложение
-add_executable(app src/main.cpp)
+add_executable(app src/main.cpp
+        src/main.cpp)
 target_link_libraries(app PRIVATE palindrome)
 
-# GoogleTest (через FetchContent, чтобы ничего не ставить руками)
 include(FetchContent)
 FetchContent_Declare(
         googletest
