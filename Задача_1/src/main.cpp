@@ -8,13 +8,13 @@
 
 int main() {
     std::string s;
-    std::cout << "Enter string: ";
+    std::cout << "Введите слово: ";
     std::cin >> s;
 
     if (is_palindrome(s)) {
-        std::cout << s << " is a palindrome." << std::endl;
+        std::cout << s << " это палиндром." << std::endl;
     } else {
-        std::cout << s << " is not a palindrome." << std::endl;
+        std::cout << s << " это не палиндром." << std::endl;
     }
     return 0;
 }
