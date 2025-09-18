@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Users/rustam/Desktop/ООП/Лаба 1/src"
+CXX_INCLUDES = -I/Users/rustam/Desktop/ООП/Задача_1/src
 
 CXX_FLAGSarm64 = -std=gnu++17 -arch arm64
 

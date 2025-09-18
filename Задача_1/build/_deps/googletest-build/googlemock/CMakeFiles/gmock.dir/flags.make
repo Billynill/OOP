@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I"/Users/rustam/Desktop/ООП/Лаба 1/build/_deps/googletest-src/googlemock/include" -I"/Users/rustam/Desktop/ООП/Лаба 1/build/_deps/googletest-src/googlemock" -isystem "/Users/rustam/Desktop/ООП/Лаба 1/build/_deps/googletest-src/googletest/include" -isystem "/Users/rustam/Desktop/ООП/Лаба 1/build/_deps/googletest-src/googletest"
+CXX_INCLUDES = -I/Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googlemock/include -I/Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googlemock -isystem /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include -isystem /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest
 
 CXX_FLAGSarm64 = -std=c++17 -arch arm64  -DGTEST_HAS_PTHREAD=1  
 

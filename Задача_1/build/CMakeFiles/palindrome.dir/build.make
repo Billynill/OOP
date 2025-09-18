@@ -53,10 +53,10 @@ RM = /opt/homebrew/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/rustam/Desktop/ООП/Лаба 1"
+CMAKE_SOURCE_DIR = /Users/rustam/Desktop/ООП/Задача_1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/rustam/Desktop/ООП/Лаба 1/build"
+CMAKE_BINARY_DIR = /Users/rustam/Desktop/ООП/Задача_1/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/palindrome.dir/depend.make
@@ -73,18 +73,18 @@ CMakeFiles/palindrome.dir/codegen:
 .PHONY : CMakeFiles/palindrome.dir/codegen
 
 CMakeFiles/palindrome.dir/src/palindrome.cpp.o: CMakeFiles/palindrome.dir/flags.make
-CMakeFiles/palindrome.dir/src/palindrome.cpp.o: /Users/rustam/Desktop/ООП/Лаба\ 1/src/palindrome.cpp
+CMakeFiles/palindrome.dir/src/palindrome.cpp.o: /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.cpp
 CMakeFiles/palindrome.dir/src/palindrome.cpp.o: CMakeFiles/palindrome.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/Users/rustam/Desktop/ООП/Лаба 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/palindrome.dir/src/palindrome.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/palindrome.dir/src/palindrome.cpp.o -MF CMakeFiles/palindrome.dir/src/palindrome.cpp.o.d -o CMakeFiles/palindrome.dir/src/palindrome.cpp.o -c "/Users/rustam/Desktop/ООП/Лаба 1/src/palindrome.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/rustam/Desktop/ООП/Задача_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/palindrome.dir/src/palindrome.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/palindrome.dir/src/palindrome.cpp.o -MF CMakeFiles/palindrome.dir/src/palindrome.cpp.o.d -o CMakeFiles/palindrome.dir/src/palindrome.cpp.o -c /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.cpp
 
 CMakeFiles/palindrome.dir/src/palindrome.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/palindrome.dir/src/palindrome.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/rustam/Desktop/ООП/Лаба 1/src/palindrome.cpp" > CMakeFiles/palindrome.dir/src/palindrome.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.cpp > CMakeFiles/palindrome.dir/src/palindrome.cpp.i
 
 CMakeFiles/palindrome.dir/src/palindrome.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/palindrome.dir/src/palindrome.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/rustam/Desktop/ООП/Лаба 1/src/palindrome.cpp" -o CMakeFiles/palindrome.dir/src/palindrome.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.cpp -o CMakeFiles/palindrome.dir/src/palindrome.cpp.s
 
 # Object files for target palindrome
 palindrome_OBJECTS = \
@@ -96,7 +96,7 @@ palindrome_EXTERNAL_OBJECTS =
 libpalindrome.a: CMakeFiles/palindrome.dir/src/palindrome.cpp.o
 libpalindrome.a: CMakeFiles/palindrome.dir/build.make
 libpalindrome.a: CMakeFiles/palindrome.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/Users/rustam/Desktop/ООП/Лаба 1/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libpalindrome.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/rustam/Desktop/ООП/Задача_1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libpalindrome.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/palindrome.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/palindrome.dir/link.txt --verbose=$(VERBOSE)
 
@@ -109,6 +109,6 @@ CMakeFiles/palindrome.dir/clean:
 .PHONY : CMakeFiles/palindrome.dir/clean
 
 CMakeFiles/palindrome.dir/depend:
-	cd "/Users/rustam/Desktop/ООП/Лаба 1/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/rustam/Desktop/ООП/Лаба 1" "/Users/rustam/Desktop/ООП/Лаба 1" "/Users/rustam/Desktop/ООП/Лаба 1/build" "/Users/rustam/Desktop/ООП/Лаба 1/build" "/Users/rustam/Desktop/ООП/Лаба 1/build/CMakeFiles/palindrome.dir/DependInfo.cmake" "--color=$(COLOR)"
+	cd /Users/rustam/Desktop/ООП/Задача_1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/rustam/Desktop/ООП/Задача_1 /Users/rustam/Desktop/ООП/Задача_1 /Users/rustam/Desktop/ООП/Задача_1/build /Users/rustam/Desktop/ООП/Задача_1/build /Users/rustam/Desktop/ООП/Задача_1/build/CMakeFiles/palindrome.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/palindrome.dir/depend
 

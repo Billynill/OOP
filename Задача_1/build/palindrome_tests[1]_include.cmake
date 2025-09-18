@@ -1,5 +1,5 @@
-if(EXISTS "/Users/rustam/Desktop/ООП/Лаба 1/build/palindrome_tests[1]_tests.cmake")
-  include("/Users/rustam/Desktop/ООП/Лаба 1/build/palindrome_tests[1]_tests.cmake")
+if(EXISTS "/Users/rustam/Desktop/ООП/Задача_1/build/palindrome_tests[1]_tests.cmake")
+  include("/Users/rustam/Desktop/ООП/Задача_1/build/palindrome_tests[1]_tests.cmake")
 else()
   add_test(palindrome_tests_NOT_BUILT palindrome_tests_NOT_BUILT)
 endif()

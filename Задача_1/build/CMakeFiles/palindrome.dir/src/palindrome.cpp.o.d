@@ -1,6 +1,6 @@
 CMakeFiles/palindrome.dir/src/palindrome.cpp.o: \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/src/palindrome.cpp \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/src/palindrome.h \
+  /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.cpp \
+  /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \

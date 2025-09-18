@@ -1,6 +1,6 @@
 CMakeFiles/palindrome_tests.dir/tests/palindrome_tests.cpp.o: \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/tests/palindrome_tests.cpp \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/src/palindrome.h \
+  /Users/rustam/Desktop/ООП/Задача_1/tests/palindrome_tests.cpp \
+  /Users/rustam/Desktop/ООП/Задача_1/src/palindrome.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/string \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/max.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/comp.h \
@@ -643,7 +643,7 @@ CMakeFiles/palindrome_tests.dir/tests/palindrome_tests.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/pstl.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__algorithm/sample.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/bit \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iomanip \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/istream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__ostream/basic_ostream.h \
@@ -798,17 +798,17 @@ CMakeFiles/palindrome_tests.dir/tests/palindrome_tests.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/set \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/sstream \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-assertion-result.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-message.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-assertion-result.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-message.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/iostream \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/stat.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_s_ifmt.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_filesec_t.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityMacros.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-port.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port-arch.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-port.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-port-arch.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/strings.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/unistd.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/sys/_types/_posix_vdisable.h \
@@ -830,28 +830,28 @@ CMakeFiles/palindrome_tests.dir/tests/palindrome_tests.cpp.o: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/chrono \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__chrono/file_clock.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/forward_list \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-death-test.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-death-test-internal.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-matchers.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-printers.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-internal.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-death-test.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-death-test-internal.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-matchers.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-printers.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-internal.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/float.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/17/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/float.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-filepath.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-string.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-filepath.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-string.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-type-util.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cxxabi.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__cxxabi_config.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-printers.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-param-test.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-param-util.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/custom/gtest-printers.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-param-test.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/internal/gtest-param-util.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cassert \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_assert.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_static_assert.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-test-part.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
-  /Users/rustam/Desktop/ООП/Лаба\ 1/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-test-part.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest-typed-test.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest_pred_impl.h \
+  /Users/rustam/Desktop/ООП/Задача_1/build/_deps/googletest-src/googletest/include/gtest/gtest_prod.h
